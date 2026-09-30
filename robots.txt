@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://c.xn--cord-3v4gy5mo22azpar87o.com/sitemap.xml
